@@ -1,0 +1,74 @@
+{
+  "GameModeType": 0,
+  "CastleDamageMode": 0,
+  "CastleHeartDamageMode": 0,
+  "DeathContainerPermission": 1,
+  "RelicSpawnType": 1,
+  "TeleportBoundItems": false,
+  "CanLootEnemyContainers": false,
+  "InventoryStacksModifier": 5.0,
+  "DropTableModifier_General": 5.0,
+  "DropTableModifier_Missions": 5.0,
+  "MaterialYieldModifier_Global": 5.0,
+  "BloodEssenceYieldModifier": 5.0,
+  "ClanSize": 10,
+  "AnnounceSiegeWeaponSpawn": false,
+  "CraftRateModifier": 10.0,
+  "RefinementRateModifier": 10.0,
+  "DismantleResourceModifier": 1.0,
+  "ServantConvertRateModifier": 20.0,
+  "Death_DurabilityFactorLoss": 0.0,
+  "Death_DurabilityLossFactorAsResources": 0.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {
+    "DayDurationInSeconds": 3600.0
+  },
+  "VampireStatModifiers": {
+    "MaxHealthModifier": 3.0,
+    "PhysicalPowerModifier": 3.0,
+    "SpellPowerModifier": 3.0,
+    "ResourcePowerModifier": 5.0
+  },
+  "UnitStatModifiers_Global": {
+    "MaxHealthModifier": 2.0
+  },
+  "UnitStatModifiers_VBlood": {
+    "MaxHealthModifier": 2.0
+  },
+  "EquipmentStatModifiers_Global": {
+    "MaxHealthModifier": 5.0,
+    "ResourceYieldModifier": 5.0,
+    "PhysicalPowerModifier": 3.0,
+    "SpellPowerModifier": 3.0
+  },
+  "CastleStatModifiers_Global": {
+    "PylonPenalties": {
+      "Range1": {},
+      "Range2": {},
+      "Range3": {},
+      "Range4": {},
+      "Range5": {}
+    },
+    "FloorPenalties": {
+      "Range1": {},
+      "Range2": {},
+      "Range3": {},
+      "Range4": {},
+      "Range5": {}
+    },
+    "HeartLimits": {
+      "Level1": {},
+      "Level2": {},
+      "Level3": {},
+      "Level4": {}
+    }
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  }
+}
